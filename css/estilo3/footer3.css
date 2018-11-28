@@ -1,0 +1,12 @@
+footer .contenedor {
+		border: 1px solid #fff;
+		padding-bottom: 25px;
+		padding-top: 20px;
+		height:50px;
+		color:white;
+		font-family: sans-serif;
+}
+
+.contenedor p {
+	text-align: center;
+}

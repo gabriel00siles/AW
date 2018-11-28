@@ -1,0 +1,44 @@
+#info {
+	background:#1c2b30;
+	
+}
+
+#info h2{
+	text-align:center;
+	font-family: arial;
+	color:white;
+	padding-top: 20px;
+	
+}
+.video-box {
+    width:100%;
+    max-width:920px;
+    height:auto;
+	margin: 10px auto 0;
+}
+.video {
+    padding:15px;
+}
+
+.video video{
+	width:100%;
+	height:auto;
+}
+
+@media (min-width:768px){
+	#info h2{
+	text-align:center;
+	font-family: arial;
+	color:white;
+	padding-top: 20px;
+	font-size:28px;
+}
+
+@media (min-width:1024px){
+	#info h2{
+	text-align:center;
+	font-family: arial;
+	color:white;
+	padding-top: 20px;
+	font-size:35px;
+}

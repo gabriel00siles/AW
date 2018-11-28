@@ -1,0 +1,40 @@
+@import url(menu4.css);
+@import url(banner4.css);
+@import url(blog4.css);
+@import url(footer4.css);
+* {
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+
+body {
+	background-color: #395761; 
+	font-family: impact;
+	
+}
+
+header { 
+	width: 100%;
+	height: 180px;
+	background-image: url("/Trabajo AW/imagenes/puma.gif");
+	background-position:center;
+	color: white;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 100;
+	
+}
+
+.contenedor{
+	margin: auto;
+	
+}
+
+.contenedor h1{
+	text-align:center;
+	font-size: 75px;
+	padding-top: 15px;
+}
